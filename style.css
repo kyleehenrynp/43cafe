@@ -1,1 +1,36 @@
 /* your styles will go here!! */
+body {
+    background-color: #E6D9C3;
+    color: #AF7A55;
+    background-position: center
+}
+
+h1{
+    color: #AF7A55;
+font-family: "Noir Pro", "Montserrat"; 
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
+h2{
+        color: #AF7A55;
+
+    font-family: "Noir Pro";
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 390;
+    line-height: normal;
+}
+
+a{
+    color: #AF7A55;
+
+font-family: "Noir Pro";
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+
