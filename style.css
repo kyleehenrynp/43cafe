@@ -48,6 +48,8 @@ li a {
     text-decoration: none;
     text-align: center;
     display: block;
+    font-weight: 600;
+    list-style: none;
     margin-left: 40px;
     margin-bottom: 14px;
     margin-right: 40px;
@@ -67,16 +69,15 @@ p{
 }
 
 .toplogo {
-    margin-top: 16px;
+    margin-top: 5px; 
 }
+
 
 .bttmlogo {
     margin-top: 16px;
 }
 
-.map {
-    margin-left: 430px;
-}
+
 
 footer{background-color: #e6d9c3
     ;}
@@ -85,4 +86,49 @@ footer{background-color: #e6d9c3
     text-align: ;
     
     ;
+}
+
+.menu ul {
+    list-style: none;
+}
+
+header {
+    display: flex;
+    align-items: center; /* Align items vertically */
+    justify-content: space-between; /* Spread items horizontally */
+    padding: 10px; /* Add some padding for spacing */
+}
+
+.menu ul {
+    list-style: none; /* Remove bullets from the list */
+    margin: 0; /* Remove default margin */
+    padding: 0; /* Remove default padding */
+    display: flex; /* Change the display to flex */
+}
+
+.menu ul li {
+    margin-left: 10px; /* Add some margin between menu items */
+}
+
+.menu ul li:last-child {
+    margin-left: 0; /* Remove margin from the last menu item */
+}
+
+.footer {
+    text-align: center;
+}
+
+.centered-content {
+    display: inline-block; 
+}
+
+.bttmlogo {
+    vertical-align: middle; 
+    margin-right: 10px; 
+}
+
+.footertext {
+    display: inline-block;
+    vertical-align: middle; 
+    font-size: 30px;
 }
