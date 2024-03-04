@@ -21,7 +21,7 @@ h2{
     font-family: "Montserrat";
     font-size: 40px;
     font-style: normal;
-    font-weight: 390;
+    font-weight: 490;
     line-height: normal;
     text-align: center;
 }
@@ -131,4 +131,9 @@ header {
     display: inline-block;
     vertical-align: middle; 
     font-size: 30px;
+}
+
+.textbox {
+    max-width: 830px;
+    margin: 0 auto; 
 }
