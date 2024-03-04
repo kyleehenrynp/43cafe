@@ -30,7 +30,7 @@ a{
     color: #AF7A55;
 
 font-family: "Montserrat";
-font-size: 24px;
+font-size: 28px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
@@ -104,6 +104,7 @@ header {
     margin: 0; /* Remove default margin */
     padding: 0; /* Remove default padding */
     display: flex; /* Change the display to flex */
+
 }
 
 .menu ul li {
