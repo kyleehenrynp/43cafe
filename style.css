@@ -1,8 +1,9 @@
 /* your styles will go here!! */
 body {
-    background-color: #E6D9C3;
+    background-color: #1C1C1C;
     color: #AF7A55;
     background-position: center
+    text
 }
 
 h1{
@@ -18,10 +19,11 @@ h2{
         color: #AF7A55;
 
     font-family: "Noir Pro";
-    font-size: 24px;
+    font-size: 40px;
     font-style: normal;
     font-weight: 390;
     line-height: normal;
+    text-align: center;
 }
 
 a{
@@ -34,3 +36,53 @@ font-weight: 400;
 line-height: normal;
 }
 
+.mainpic {
+    width: 100%
+}
+
+.mugpic{
+    width: 100%
+}
+
+li a {
+    text-decoration: none;
+    text-align: center;
+    display: block;
+    margin-left: 40px;
+    margin-bottom: 14px;
+    margin-right: 40px;
+}
+
+h3 {
+    text-align: center;
+    font-size: x-large;
+    font-weight: 350;
+    font-family: "Noir Pro"
+}
+
+p{
+    text-align: center;
+    font-family: "Noir Pro";
+    font-weight: 50;
+}
+
+.toplogo {
+    margin-top: 16px;
+}
+
+.bttmlogo {
+    margin-top: 16px;
+}
+
+.map {
+    margin-left: 430px;
+}
+
+footer{background-color: #e6d9c3
+    ;}
+
+.footertext {
+    text-align: ;
+    
+    ;
+}
