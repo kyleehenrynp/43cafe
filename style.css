@@ -8,7 +8,7 @@ body {
 
 h1{
     color: #AF7A55;
-font-family: "Noir Pro", "Montserrat"; 
+font-family: "Montserrat"; 
 font-size: 24px;
 font-style: normal;
 font-weight: 400;
@@ -18,7 +18,7 @@ line-height: normal;
 h2{
         color: #AF7A55;
 
-    font-family: "Noir Pro";
+    font-family: "Montserrat";
     font-size: 40px;
     font-style: normal;
     font-weight: 390;
@@ -29,7 +29,7 @@ h2{
 a{
     color: #AF7A55;
 
-font-family: "Noir Pro";
+font-family: "Montserrat";
 font-size: 24px;
 font-style: normal;
 font-weight: 400;
@@ -57,12 +57,12 @@ h3 {
     text-align: center;
     font-size: x-large;
     font-weight: 350;
-    font-family: "Noir Pro"
+    font-family: "Montserrat"
 }
 
 p{
     text-align: center;
-    font-family: "Noir Pro";
+    font-family: "Montserrat";
     font-weight: 50;
 }
 
