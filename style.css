@@ -267,3 +267,12 @@ form input[type="submit"]:hover {
     }
 }
 
+.drinks-heading {
+    font-weight: 600; /* Set font weight to 700 (bold) */
+    font-size: 36px;
+}
+
+.food-heading {
+    font-weight: 600; /* Set font weight to 700 (bold) */
+    font-size: 36px;
+}
