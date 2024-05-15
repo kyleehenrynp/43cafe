@@ -82,11 +82,6 @@ p{
 footer{background-color: #e6d9c3
     ;}
 
-.footertext {
-    text-align: ;
-    
-    ;
-}
 
 .menu ul {
     list-style: none;
@@ -150,9 +145,6 @@ body {
     font-family: "Montserrat", sans-serif; /* Apply Montserrat font to entire page */
 }
 
-header {
-    /* Your existing styles */
-}
 
 footer {
     margin-top: auto; 
